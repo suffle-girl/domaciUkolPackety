@@ -1,0 +1,13 @@
+.emails {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.email__line {
+  margin: 5px;
+}
+
+.email__line24601 {
+  background-color: aquamarine;
+  margin-top: 35px;
+}
